@@ -27,6 +27,9 @@
     background-color: #525252;
 }
 
+.bg-color-personal-info {
+    background-color: #f4f4f4;
+}
 /* ----------------------------------------Special paddings/margins/text */
 
 h1,
@@ -221,4 +224,9 @@ footer {
 
 .three-reasons-heading{
     margin-bottom: 15px;
+}
+
+.personal-info-item
+{
+    padding-top: 20px;
 }
